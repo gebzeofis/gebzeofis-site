@@ -1,0 +1,12 @@
+export default function Iade() {
+return (
+<main style={{ padding: "20px", fontFamily: "Arial" }}>
+<h1>İade ve Değişim Koşulları</h1>
+<p>
+Satın aldığınız ürünleri 14 gün içinde koşulsuz iade edebilirsiniz.
+İade edilecek ürün kullanılmamış ve orijinal ambalajında olmalıdır.
+İade süreci için info@gebzeofis.com adresine e-posta gönderebilirsiniz.
+</p>
+</main>
+);
+}

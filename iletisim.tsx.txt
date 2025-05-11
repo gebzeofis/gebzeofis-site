@@ -1,0 +1,13 @@
+export default function Iletisim() {
+return (
+<main style={{ padding: "20px", fontFamily: "Arial" }}>
+<h1>İletişim</h1>
+<p>
+Bize ulaşmak için whatsapp numaramız:<br />
+Telefon: 0 505 043 16 39<br />
+E-posta: gebzeofis41@gmail.com<br />
+Adres: Sultan Orhan Mahallesi, Osman Yılmaz Caddesi No:25 Gebze / KOCAELİ
+</p>
+</main>
+);
+}

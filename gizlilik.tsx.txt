@@ -1,0 +1,18 @@
+export default function Gizlilik() {
+return (
+<main style={{ padding: '20px', fontFamily: 'Arial' }}>
+<h1>Gizlilik Politikası</h1>
+<p>
+Gebze Ofis olarak, müşterilerimizin gizliliğine büyük önem veriyoruz.
+Kişisel verileriniz, sadece sipariş süreçleri ve yasal yükümlülükler kapsamında kullanılır.
+</p>
+<p>
+Verileriniz üçüncü şahıslarla paylaşılmaz, satılmaz veya ticari amaçlarla kullanılmaz.
+Ödeme işlemleriniz güvenli sunucular üzerinden gerçekleştirilir.
+</p>
+<p>
+Daha fazla bilgi için bizimle iletişime geçebilirsiniz.
+</p>
+</main>
+);
+}

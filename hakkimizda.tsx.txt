@@ -1,0 +1,10 @@
+export default function Hakkimizda() {
+return (
+<main style={{ padding: "20px", fontFamily: "Arial" }}>
+<h1>Hakkımızda</h1>
+<p>
+Gebze Ofis, kitap ve kırtasiye sektöründe uygun fiyat ve güvenilir hizmet sunmayı amaçlayan modern bir e-ticaret platformudur. Müşteri memnuniyetini ön planda tutar.
+</p>
+</main>
+);
+}

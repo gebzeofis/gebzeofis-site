@@ -1,0 +1,18 @@
+export default function Teslimat() {
+return (
+<main style={{ padding: '20px', fontFamily: 'Arial' }}>
+<h1>Teslimat Koşulları</h1>
+<p>
+Gebze Ofis olarak, siparişlerinizi en kısa sürede hazırlayıp kargoya teslim ediyoruz.
+Hafta içi saat 14:00'e kadar verilen siparişler aynı gün kargoya verilir.
+</p>
+<p>
+Teslimat süresi genellikle 1-3 iş günü içerisinde gerçekleşir.
+Resmi tatiller ve yoğun dönemlerde bu süre değişiklik gösterebilir.
+</p>
+<p>
+Kargo ücretleri sipariş ekranında belirtilir. Belirli tutarın üzerindeki alışverişlerde ücretsiz kargo fırsatından faydalanabilirsiniz.
+</p>
+</main>
+);
+}

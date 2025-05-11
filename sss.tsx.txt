@@ -1,0 +1,15 @@
+export default function SSS() {
+return (
+<main style={{ padding: '20px', fontFamily: 'Arial' }}>
+<h1>Sıkça Sorulan Sorular</h1>
+<p><strong>Soru 1:</strong> Siparişim ne zaman kargoya verilir?</p>
+<p>Cevap: Siparişleriniz aynı gün veya ertesi gün kargoya verilir.</p>
+
+<p><strong>Soru 2:</strong> Kargo ücreti ne kadar?</p>
+<p>Cevap: Belirli bir tutarın üzerindeki alışverişlerde kargo ücretsizdir.</p>
+
+<p><strong>Soru 3:</strong> Ürün iadesi nasıl yapılır?</p>
+<p>Cevap: 14 gün içinde koşulsuz iade hakkınız vardır. Detaylar için İade sayfasına göz atın.</p>
+</main>
+);
+}
